@@ -1,8 +1,10 @@
 .flask_session
-.spotify-caches
+.spotify_caches/
+.vscode
 spotipy
 venv
 .cache
 redis.conf
 test_notebook.ipynb
 test_using_spotipy.ipynb
+launch.json
