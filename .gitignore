@@ -1,0 +1,8 @@
+.flask_session
+.spotify-caches
+spotipy
+venv
+.cache
+redis.conf
+test_notebook.ipynb
+test_using_spotipy.ipynb
